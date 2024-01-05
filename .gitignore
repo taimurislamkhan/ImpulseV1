@@ -25,10 +25,6 @@ release
 *.exp
 
 # Libraries
-*.lib
-*.a
-*.la
-*.lo
 
 # Shared objects
 *.dll
@@ -38,7 +34,6 @@ release
 
 # Executables
 *.exe
-*.out
 *.app
 *.i*86
 *.x86_64

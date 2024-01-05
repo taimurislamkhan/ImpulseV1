@@ -1,0 +1,11 @@
+#include <gui/containers/TIP_SETTINGS_CONTAINER.hpp>
+
+TIP_SETTINGS_CONTAINER::TIP_SETTINGS_CONTAINER()
+{
+
+}
+
+void TIP_SETTINGS_CONTAINER::initialize()
+{
+    TIP_SETTINGS_CONTAINERBase::initialize();
+}
